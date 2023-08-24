@@ -1,13 +1,13 @@
-基本功能
-- [x] 场景仿照真实食堂搭建完成
-- [x] 项目考虑了食堂与数字孪生的结合，分为普通用餐者和系统管理员界面
-- [x] 普通用餐者具备类似点餐和点饮料的功能，同时增加了返回室外和楼层展开的交互功能
-- [x] 管理员登录后具备显示顶牌的功能
+Basic Functions
+- [x] The scenario is modeled after a real cafeteria.
+- [x] The project takes into account the combination of the cafeteria and the digital twin, and is divided into general diners and system administrator interfaces.
+- [x] Regular diners have functions similar to ordering food and beverages, and the interactive functions of returning to the outdoor area and expanding the floor have been added.
+- [x] Administrators can log in and display the top license plate.
 
-用餐者孪生界面
-- [x] 在点击“中餐炒菜”和“饮品”之后，可以显示更多的商户
-- [ ] 在商户中可以展示今日菜单，消费者可以点击选择菜品并进行下单
+Diner's twin interface
+- [x] More merchants can be displayed after clicking "Chinese Stir Fry" and "Drinks".
+- [ ] Today's menu can be displayed in the merchant, consumer can click to select the dish and place an order.
 
-管理员孪生界面
-- [x] 管理员查看商户的菜品信息
-- [ ] 管理员实现订单管理，查看目前每个商户的订单数与订单信息
+Administrator Twin Interface
+- [x] Administrator can view merchant's menu information.
+- [ ] Administrator can realize order management, view the number of orders and order information of each merchant.
